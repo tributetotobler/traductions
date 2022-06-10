@@ -24,4 +24,5 @@ Association_, 24(325):391-392. [Accéder la traduction réalisée en lien avec l
 
 
 # Voir aussi
-[Préambule sur la série TTT – Traductions](https://neocarto.hypotheses.org/14131)
+-- [Préambule dans Neocarto](https://neocarto.hypotheses.org/14131) sur la série TTT – Traductions. </br>
+-- Tobler (1969) face à la sémiologie des réseaux de Bertin (1967)[dans Groupe f.m.r](https://groupefmr.hypotheses.org/5745)
