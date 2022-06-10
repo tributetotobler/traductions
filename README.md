@@ -11,7 +11,7 @@ L'édition des textes traduits est réalisée par Laurent Beauguitte.
 ## Textes de Tobler traduits
 
 - Waldo R. Tobler, 1969, Review of Sémiologie graphique: Les Diagrammes. Les réseaux. Les Cartes, _Journal of the American Statistical
-Association_, 24(325):391-392. [Accéder la traduction réalisée en lien avec le groupe f.m.r.](https://hal.archives-ouvertes.fr/hal-03583854). [Voir aussi sur Neocartot](https://neocarto.hypotheses.org/14131)
+Association_, 24(325):391-392. [Accéder](https://hal.archives-ouvertes.fr/hal-03583854).
 
 ## Textes de Tobler en cours de traduction
 
