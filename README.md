@@ -10,8 +10,7 @@ L'édition des textes traduits est réalisée par Laurent Beauguitte.
 
 ## Textes de Tobler traduits
 
-- Waldo R. Tobler, 1969, Review of Sémiologie graphique: Les Diagrammes. Les réseaux. Les Cartes, _Journal of the American Statistical
-Association_, 24(325):391-392. [Accéder](https://hal.archives-ouvertes.fr/hal-03583854).
+- Waldo R. Tobler, 1969, Review of Sémiologie graphique: Les Diagrammes. Les réseaux. Les Cartes, _Journal of the American Statistical Association_, 24(325):391-392. [Revue de Sémiologie graphique : version bilingue commentée](https://hal.archives-ouvertes.fr/hal-03583854).
 
 ## Textes de Tobler en cours de traduction
 
@@ -20,7 +19,7 @@ Association_, 24(325):391-392. [Accéder](https://hal.archives-ouvertes.fr/hal-0
 – Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20
 
 ## Traductions de textes connexes aux travaux de Tobler
-- Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. _(en cours)_
+- Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723).
 
 
 # Voir aussi
