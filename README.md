@@ -19,7 +19,7 @@ L'édition des textes traduits est réalisée par Laurent Beauguitte.
 – Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20
 
 ## Traductions de textes connexes aux travaux de Tobler
-- Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723).
+- Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723). [Présentation via groupefmr](https://groupefmr.hypotheses.org/5899).
 
 
 # Voir aussi
