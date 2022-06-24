@@ -1,26 +1,23 @@
 # TTT_Traductions
-_Bilingual (French/English) and annotated translation of a selection of published and unpublished Waldo R. Tobler texts_. </br>
-Traduction bilingue (en français/anglais) et commentée d'une sélection de textes Waldo R. Tobler publiés et non publiés.
 
-_In order not to make this repository more heavy, only the translated versions are available._ </br>
-Afin de ne pas alourdir le dépôt, seules les versions traduites sont disponibles.
+La collection « traductions » du groupe _Tribute to Tobler_ propose des rééditions bilingues et commentées d'articles, publiés ou inédits, de Waldo Tobler. </br>
+Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
+Éditeur : Laurent Beauguitte (UMR Géographie-cités).
 
-_The translated texts are edited by Laurent Beauguitte._ </br>
-L'édition des textes traduits est réalisée par Laurent Beauguitte.
 
-## Textes de Tobler traduits
+## Disponibles en ligne
 
-- Waldo R. Tobler, 1969, Review of Sémiologie graphique: Les Diagrammes. Les réseaux. Les Cartes, _Journal of the American Statistical Association_, 24(325):391-392. [Revue de Sémiologie graphique : version bilingue commentée](https://hal.archives-ouvertes.fr/hal-03583854).
+- F. Bahoken, 2022, « W. R. Tobler, 1969, [Review of Sémiologie graphique: Les Diagrammes - Les réseaux - Les Cartes »](https://hal.archives-ouvertes.fr/hal-03583854), _Journal of the American Statistical Association_, 24(325):391-392.
+- F. Bahoken, 2022, « W. R. Tobler, nd, [Statistical Cartography : what is it ? »](https://github.com/tributetotobler/traductions/blob/main/Textes/tobler_nd_statisticalcartography/tobler_nd_ttt.pdf). Note de recherche non datée et non publiée.
 
-## Textes de Tobler en cours de traduction
+## En cours de traduction
 
-- Waldo R. Tobler, n. d., Statistical cartography : what it is ? _Note_ : University of California, Santa-Barbara, California, 6 p. Poly : 77-81.
 - Waldo R. Tobler, 1976, Analytical Cartography, _The American Cartographer_, (3)-1, pp. 21-31.
+- Waldo R. Tobler, 1976, Geographical filters and their inverse, _The American Cartographer_, (3)-1, pp. 21-31.
 – Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20
 
 ## Traductions de textes connexes aux travaux de Tobler
-- Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723). [Présentation via groupefmr](https://groupefmr.hypotheses.org/5899).
-
+- Peter Gould, Françoise Bahoken, Laurent Beauguitte : Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723). [Présentation via groupefmr](https://groupefmr.hypotheses.org/5899).
 
 # Voir aussi
 -[Préambule sur la série TTT – Traductions](https://neocarto.hypotheses.org/14131), un billet dans Neocarto. </br>
