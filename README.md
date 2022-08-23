@@ -7,8 +7,8 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 
 ## Disponibles en ligne
 
-- F. Bahoken, 2022, « W. R. Tobler, 1969, [Review of Sémiologie graphique: Les Diagrammes - Les réseaux - Les Cartes »](https://hal.archives-ouvertes.fr/hal-03583854), _Journal of the American Statistical Association_, 24(325):391-392.
-- F. Bahoken, 2022, « W. R. Tobler, nd, [Statistical Cartography : what is it ? »](https://github.com/tributetotobler/traductions/blob/main/Textes/tobler_nd_statisticalcartography/tobler_nd_ttt.pdf). Note de recherche non datée et non publiée.
+- Françoise Bahoken, 2022, « W. R. Tobler, nd, [Statistical Cartography : what is it ? »](https://hal.archives-ouvertes.fr/hal-03739509). Note de recherche non datée et non publiée.
+- Françoise Bahoken, 2022, « W. R. Tobler, 1969, [Review of Sémiologie graphique: Les Diagrammes - Les réseaux - Les Cartes »](https://hal.archives-ouvertes.fr/hal-03583854), _Journal of the American Statistical Association_, 24(325):391-392.
 
 ## En cours de traduction
 
@@ -19,6 +19,7 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 ## Traductions de textes connexes aux travaux de Tobler
 - Peter Gould, Françoise Bahoken, Laurent Beauguitte : Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723). [Présentation via groupefmr](https://groupefmr.hypotheses.org/5899).
 
-# Voir aussi
+## Voir aussi sur Néocarto
 -[Préambule sur la série TTT – Traductions](https://neocarto.hypotheses.org/14131), un billet dans Neocarto. </br>
 -[Tobler (1969) face à la sémiologie des réseaux de Bertin (1967)](https://groupefmr.hypotheses.org/5745), un billet de la Collection Textes du Groupe f.m.r. </br>
+- [Statistical cartography: whay is it ?](https://neocarto.hypotheses.org/15435), le billet dans Neocarto. </br>
