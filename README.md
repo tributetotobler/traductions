@@ -15,7 +15,7 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 - Waldo R. Tobler, 1976, Analytical Cartography, _The American Cartographer_, (3)-1, pp. 21-31.
 - Waldo R. Tobler, 1973, Choropleth maps without class intervals. Geographical analysis, 5(3), pp. 262-265.
 - Waldo R. Tobler, 1976, Geographical filters and their inverse, _The American Cartographer_, (3)-1, pp. 21-31.
-– Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20
+- Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20
 
 ## Traductions connexes aux travaux de Tobler
 - Peter Gould, Françoise Bahoken, Laurent Beauguitte : Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723). [Présentation via groupefmr](https://groupefmr.hypotheses.org/5899).
