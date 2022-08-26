@@ -4,6 +4,8 @@ La collection « traductions » du groupe _Tribute to Tobler_ propose des rééd
 Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 Éditeur : Laurent Beauguitte (UMR Géographie-cités).
 
+**Vous souhaitez traduire un texte ?** </br> 
+> Consultez les **consignes de traductions**. Renseignez ensuite ci-dessous la rubrique **en cours de traduction**. Vous pouvez aussi ajouter à la **Wish List** un ou des textes que vous souhaitez traduire ou voir traduire par d'autres. Enfin, n'hésitez pas à consulter la liste du corpus de Tobler, un même document de Tobler existe généralement en plusieurs versions.
 
 ## Traductions disponibles en ligne
 
