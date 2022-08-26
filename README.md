@@ -12,10 +12,23 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 
 ## En cours de traduction
 
-- Waldo R. Tobler, 1976, Analytical Cartography, _The American Cartographer_, (3)-1, pp. 21-31.
-- Waldo R. Tobler, 1973, Choropleth maps without class intervals. Geographical analysis, 5(3), pp. 262-265.
+- Françoise :  Waldo R. Tobler, 1976, Analytical Cartography, _The American Cartographer_, (3)-1, pp. 21-31.
+- Laurent J. : Waldo R. Tobler, 1973, Choropleth maps without class intervals. _Geographical analysis_, 5(3), pp. 262-265.
+
+## Wish list (à traduire en français)
+**Automation and cartography**
+- Waldo R. Tobler, 1959, Automation and cartography, _Geographical Review_, vol. 49, n°4, pp. 526-534.
+(traduit et ré-imprimé in Geodeziya i Kartografiya, XXI, 3, Moscow, 1962)
+- Waldo R. Tobler, 2011, Automation and cartography, in : Martin Dodge, Rob Kitchin and Chris Perkins (eds), The Map Reader: Theories of Mapping Practice and Cartographic Representation, Chapitre 19, John Wiley & Sons, Ltd, pp. 137-140.
+- Waldo R. Tobler, 1965, Automation in the Preparation of Thematic Maps, The Cartographic Journal, vol. 2, n°1, spp. 32-38.
+- Waldo R. 1964, Automation and cartography, communication at the Technical Symposium of the International Cartographic Association, Edinburgh.
+- Waldo R. Tobler, 1966, L'Automation dans la préparation des cartes thematiques, _International Yearbook of Cartography_, Vol. 6, pp. 81–93.
+
+**Cartography**
 - Waldo R. Tobler, 1976, Geographical filters and their inverse, _The American Cartographer_, (3)-1, pp. 21-31.
-- Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20
+
+**Modelisation**
+- Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20.
 
 ## Traductions connexes aux travaux de Tobler
 - Peter Gould, Françoise Bahoken, Laurent Beauguitte : Peter R. Gould, 1967, On the Geographical Interpretation of Eigenvalues, _Transactions of the Institute of British Geographers_, 42, p. 53-86. [Sur l'interprétation géographique des valeurs propres : version française commentée](https://hal.archives-ouvertes.fr/hal-03699723). [Présentation via groupefmr](https://groupefmr.hypotheses.org/5899).
