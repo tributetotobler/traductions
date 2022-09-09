@@ -28,11 +28,13 @@ _Textes connexes_ </br>
 - Waldo R. 1964, Automation and cartography, communication at the Technical Symposium of the International Cartographic Association, Edinburgh.
 - Waldo R. Tobler, 1966, L'Automation dans la préparation des cartes thematiques, _International Yearbook of Cartography_, Vol. 6, pp. 81–93.
 
+**Cartography**
+- Waldo R. Tobler, 1997, Introductory Comments on Information Theory and Cartography, _Cartographic Perspectives_, (27), 4–7. [DOI](https://doi.org/10.14714/CP27.698)
+
 ## Wish list (à traduire en français)
 
 **Cartography**
 - Waldo R. Tobler, 1976, Geographical filters and their inverse, _The American Cartographer_, (3)-1, pp. 21-31.
-- Waldo R. Tobler, 1997, Introductory Comments on Information Theory and Cartography, _Cartographic Perspectives_, (27), 4–7. [DOI](https://doi.org/10.14714/CP27.698)
 - Waldo R. Tobler, 1979, A Transformational View of Cartography, _Cartography and Geographic Information Science_,6(2):101-106. [DOI](https://doi.org/10.1559/152304079784023104)
 - Waldo R. Tobler, 1976, The Geometry of Mental Maps,_Spatial choice and spatial behavior_, 69-81.
 
