@@ -7,10 +7,11 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 **Vous souhaitez traduire un texte ?** </br> 
 > Consultez les **consignes de traductions**. Renseignez ensuite ci-dessous la rubrique **en cours de traduction**. Vous pouvez aussi ajouter à la **Wish List** un ou des textes que vous souhaitez traduire ou voir traduire par d'autres. Enfin, n'hésitez pas à consulter la liste du corpus de Tobler, un même document de Tobler existe généralement en plusieurs versions.
 
-## Traductions disponibles en ligne
+## Traductions/notices en français disponibles sur HAL
 
-- Waldo Tobler, Françoise Bahoken, 2022 : « W. R. Tobler, nd, [Statistical Cartography : what is it ? »](https://hal.archives-ouvertes.fr/hal-03739509). Note de recherche non datée et non publiée.
+- Waldo Tobler, Françoise Bahoken, 2022 : « W. R. Tobler, nd, [Statistical Cartography : what is it ? »](https://hal.archives-ouvertes.fr/hal-03739509). _Note de recherche_ non datée et non publiée.
 - Waldo Tobler, Françoise Bahoken, 2022 : « W. R. Tobler, 1969, [Review of Sémiologie graphique: Les Diagrammes - Les réseaux - Les Cartes »](https://hal.archives-ouvertes.fr/hal-03583854), _Journal of the American Statistical Association_, 24(325):391-392.
+- Waldo Tobler, 1966, [L'Automation dans la préparation des cartes thematiques](https://hal.archives-ouvertes.fr/hal-03773410), _International Yearbook of Cartography_, Vol. 6, pp. 81–93.
 
 # En cours d'édition
 
