@@ -9,6 +9,7 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 
 ## Traductions/notices en français disponibles sur HAL
 
+- Waldo Tobler, 2000, [Ma vie : Grandir en Amérique et en Europe](https://halshs.archives-ouvertes.fr/halshs-03781336), in : Bailly Antoine & Gould Peter (eds), [Mémoires de géographes](https://www.economica.fr/livre-memoires-de-geographes-gould-peter-bailly-antoine,fr,4,9782717840650.cfm), Anthropos, Paris, 209-242.
 - Laurent Jégou. Waldo R. Tobler, 1973, [Choropleth Maps Without Intervals?](https://hal.archives-ouvertes.fr/hal-03781264). 2022.
 - Waldo Tobler, Françoise Bahoken. 1975, [Analytical cartography](https://hal.archives-ouvertes.fr/hal-03781110). _Document de travail_, 2022.
 - Waldo Tobler, Françoise Bahoken, n.d., [Statistical Cartography : what is it ? »](https://hal.archives-ouvertes.fr/hal-03739509). _Note de recherche_ non datée et non publiée.
