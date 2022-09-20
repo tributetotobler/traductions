@@ -9,33 +9,22 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 
 ## Traductions/notices en français disponibles sur HAL
 
-- Waldo Tobler, Françoise Bahoken. 1975, « Analytical cartography » [https://hal.archives-ouvertes.fr/hal-03781110]. _Document de travail_,2022.
-- Waldo Tobler, Françoise Bahoken, 2022 : « W. R. Tobler, nd, [Statistical Cartography : what is it ? »](https://hal.archives-ouvertes.fr/hal-03739509). _Note de recherche_ non datée et non publiée.
+- Laurent Jégou. Waldo R. Tobler, 1973, [Choropleth Maps Without Intervals?](https://hal.archives-ouvertes.fr/hal-03781264). 2022.
+- Waldo Tobler, Françoise Bahoken. 1975, [Analytical cartography](https://hal.archives-ouvertes.fr/hal-03781110). _Document de travail_, 2022.
+- Waldo Tobler, Françoise Bahoken, n.d., [Statistical Cartography : what is it ? »](https://hal.archives-ouvertes.fr/hal-03739509). _Note de recherche_ non datée et non publiée.
 - Waldo Tobler, Françoise Bahoken, 2022 : « W. R. Tobler, 1969, [Review of Sémiologie graphique: Les Diagrammes - Les réseaux - Les Cartes »](https://hal.archives-ouvertes.fr/hal-03583854), _Journal of the American Statistical Association_, 24(325):391-392.
 - Waldo Tobler, 1966, [L'Automation dans la préparation des cartes thematiques](https://hal.archives-ouvertes.fr/hal-03773410), _International Yearbook of Cartography_, Vol. 6, pp. 81–93.
 
-# En cours d'édition
+## En cours d'édition
 
-- Waldo R. Tobler, Laurent Jégou, 1973, Choropleth maps without class intervals. _Geographical analysis_, 5(3), pp. 262-265. </br>
-- Waldo R. Tobler, Françoise Bahoken, 1976, Analytical Cartography, _The American Cartographer_, (3)-1, pp. 21-31. 
 
 ## En cours de traduction
 
-**Automation and cartography**
-- Waldo R. Tobler, 1959, Automation and cartography, _Geographical Review_, vol. 49, n°4, pp. 526-534. </br>
-(traduit et ré-imprimé in Geodeziya i Kartografiya, XXI, 3, Moscow, 1962) </br>
-_Textes connexes_ </br>
-- Waldo R. Tobler, 2011, Automation and cartography, in : Martin Dodge, Rob Kitchin and Chris Perkins (eds), _The Map Reader: Theories of Mapping Practice and Cartographic Representation_, Chapitre 19, John Wiley & Sons, Ltd, pp. 137-140.
-- Waldo R. Tobler, 1965, Automation in the Preparation of Thematic Maps, The Cartographic Journal, vol. 2, n°1, spp. 32-38.
-- Waldo R. 1964, Automation and cartography, communication at the Technical Symposium of the International Cartographic Association, Edinburgh.
-- Waldo R. Tobler, 1966, L'Automation dans la préparation des cartes thematiques, _International Yearbook of Cartography_, Vol. 6, pp. 81–93.
-
-**Cartography**
-- Waldo R. Tobler, 1997, Introductory Comments on Information Theory and Cartography, _Cartographic Perspectives_, (27), 4–7. [DOI](https://doi.org/10.14714/CP27.698)
 
 ## Wish list (à traduire en français)
 
 **Cartography**
+- Waldo R. Tobler, 1997, Introductory Comments on Information Theory and Cartography, _Cartographic Perspectives_, (27), 4–7. [DOI](https://doi.org/10.14714/CP27.698)
 - Waldo R. Tobler, 1976, Geographical filters and their inverse, _The American Cartographer_, (3)-1, pp. 21-31.
 - Waldo R. Tobler, 1979, A Transformational View of Cartography, _Cartography and Geographic Information Science_,6(2):101-106. [DOI](https://doi.org/10.1559/152304079784023104)
 - Waldo R. Tobler, 1976, The Geometry of Mental Maps,_Spatial choice and spatial behavior_, 69-81.
