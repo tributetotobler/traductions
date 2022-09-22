@@ -29,6 +29,7 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 - Waldo R. Tobler, 1976, Geographical filters and their inverse, _The American Cartographer_, (3)-1, pp. 21-31.
 - Waldo R. Tobler, 1979, A Transformational View of Cartography, _Cartography and Geographic Information Science_,6(2):101-106. [DOI](https://doi.org/10.1559/152304079784023104)
 - Waldo R. Tobler, 1976, The Geometry of Mental Maps,_Spatial choice and spatial behavior_, 69-81.
+- Waldo R. Tobler, W. 1989. Frame Independent Spatial Analysis, In: Goodchild M. F. and Gopal S. (eds). _Accuracy of Spatial Databases_, 115–122. London: Taylor and Francis.
 
 **Cartograms**
 - Waldo R. Tobler, 1984, Interactive construction of contiguous cartograms,_Computer graphics'84_, Anaheim, CA, May 13—17th 1984
