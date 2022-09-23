@@ -46,3 +46,4 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 -[Préambule sur la série TTT – Traductions](https://neocarto.hypotheses.org/14131), un billet dans Neocarto. </br>
 -[Tobler (1969) face à la sémiologie des réseaux de Bertin (1967)](https://groupefmr.hypotheses.org/5745), un billet de la Collection Textes du Groupe f.m.r. </br>
 -[Statistical cartography: whay is it ?](https://neocarto.hypotheses.org/15435), le billet dans Neocarto. </br>
+-[Des cartes choroplètes sans classes ?](https://neocarto.hypotheses.org/16202), le billet dans Neocarto. </br>
