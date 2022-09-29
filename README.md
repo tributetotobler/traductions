@@ -21,6 +21,7 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 
 ## En cours de traduction
 
+- Waldo R. Tobler, 2010, An experiment in filtering of geographic movement tables, Draft, WRSA, Sedona, AZ, Feb 2010. Unpublished document.
 
 ## Wish list (à traduire en français)
 
