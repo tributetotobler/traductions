@@ -34,6 +34,9 @@ Responsable scientique : Françoise Bahoken (Université Gustave Eiffel) ;</br>
 
 **Cartograms**
 - Waldo R. Tobler, 1984, Interactive construction of contiguous cartograms,_Computer graphics'84_, Anaheim, CA, May 13—17th 1984
+- Waldo R. Tobler, 1994, Bidimensional Regression, *Geographical Analysis*, 26/3, p.187-212
+- Waldo R. Tobler, 2017, "Cartograms as Map Projections", In *Choosing a Map Projection*, Lapaine, M. and E. L. Usery (eds.), Springer International Publishing, Cham, 149–159.
+
 
 **Modelisation**
 - Waldo R. Tobler, 1981, A Model of Geographical Movement, _Geographical analysis_, (13)-1, pp. 1-20.
